@@ -1,1 +1,2 @@
 This git repository serves for educational purposes.
+Line 2.
