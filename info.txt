@@ -1,1 +1,1 @@
-This git repository servers for educational purposes.
+This git repository serves for educational purposes.
