@@ -4,4 +4,3 @@ added another fancy line
 update
 line 4
 line 6
-line 7
