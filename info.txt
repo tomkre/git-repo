@@ -6,4 +6,7 @@ line 4
 line 163
 line 164
 line 166
+<<<<<<< HEAD
 line 167
+=======
+>>>>>>> alt
